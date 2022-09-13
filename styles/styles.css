@@ -128,7 +128,7 @@ body {
 }
 
 .player-mobile {
-    width: 50%;
+    width: 70%;
     height: 100px;
     border: 2px solid white;
     border-radius: 20px;
@@ -152,13 +152,13 @@ body {
 
 
 .button_start {
-    height: 40px;
+    height: 60px;
     width: 300px;
     border-radius: 10px;
     border: none;
     background-color: rgb(250, 226, 10);
     color: black;
-    font-size: 1.3rem;
+    font-size: 1rem;
     font-weight: bold;
     margin-left: 20px;
     line-height: 2rem;
@@ -179,8 +179,8 @@ body {
 
 #nextButton, #clearButton {
     background-color: grey;
-        cursor: default;
-    font-size: 1.2rem;
+    cursor: default;
+    font-size: 1rem;
     line-height: 2rem;
 }
 
