@@ -6,7 +6,7 @@
     }
 
     .section {
-        height: calc(100vh - 213px);
+        height: calc(100vh - 230px);
     }
 
     .header__h1 {
@@ -37,7 +37,7 @@
     }
 
     .section {
-        height: calc(100vh - 216px);
+        height: calc(100vh - 237px);
     }
 
     .header__h1 {
@@ -70,8 +70,5 @@
     font-size: 1.5rem;
    
 }
-
-
-
 
 }

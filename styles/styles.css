@@ -42,7 +42,7 @@ body {
 
 .section {
     width: 100%;
-    height: calc(100vh - 100px);
+    height: calc(100vh - 137px);
     background-color: #d1deec;
     padding: 20px 20px;
     display: flex;
